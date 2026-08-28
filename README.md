@@ -4,5 +4,5 @@ Este repositório é dedicado ao armazenamento e organização dos exercícios, 
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 * **Linguagem:** Python
-* **Bibliotecas Principais:** NumPy, Matplotlib
+* **Bibliotecas Principais:** NumPy, Matplotlib, Pandas
 * **Ambiente de Desenvolvimento:** Google Colab
